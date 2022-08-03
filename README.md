@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any of the above mentioned framework
 - 📫 To reach me drop me a line @ harish@whaterr.com
 
-<!---
+
 Hey you, thank you! Yes Thank you for being awesome and going through my Readme file!
 
 About my Work and Organizations:
@@ -53,4 +53,3 @@ Philosopher ☯️
 Lover 💖
 Entrepreneur 💫
 Paranormal Enthusiast ❤️‍🔥
---->
